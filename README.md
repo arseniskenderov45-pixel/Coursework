@@ -4,11 +4,10 @@ A RESTful backend for a medical clinic that allows users to book appointments, m
 
 ---
 
-## Team Members
 
-| Name | Role |
+| Name | Group |
 |------|------|
-| *(your name)* | Backend Developer |
+| Iskenderov Arsen| SCA-24B |
 
 ---
 
