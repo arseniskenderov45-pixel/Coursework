@@ -11,6 +11,11 @@ A RESTful backend for a medical clinic that allows users to book appointments, m
 
 ---
 
+LINK FOR VIDEO
+https://youtu.be/NgNgmID-TO4
+
+---
+
 ## Tech Stack
 
 - Java 21
